@@ -1,0 +1,5 @@
+Name: Alert On Http Response Code Errors
+Type: httpsender
+Engine: Oracle Nashorn
+Description: A HTTP Sender Script which will raise alerts based on HTTP Response code
+Charset: UTF-8
